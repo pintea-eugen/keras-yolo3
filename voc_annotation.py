@@ -31,7 +31,7 @@ for image_set in sets:
     list_file = open('%s/yolo/%s.txt' % (wd, image_set), 'w')
     for image_id in image_ids:
         image_id = image_id[:-4]
-        list_file.write('%s/images/%s.jpg' % (wd, image_id))
+        list_file.write('/images/%s.jpg' % image_id)
         convert_annotation(image_id, image_set, list_file)
         list_file.write('\n')
     list_file.close()
