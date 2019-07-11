@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bootstrap_images</folder>
+	<filename>free-bootstrap-templates.jpg</filename>
+	<path>C:\Work\Inno_Vision_X\Bootstrap_images\free-bootstrap-templates.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>939</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>310</ymin>
+			<xmax>657</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

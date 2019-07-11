@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bootstrap_images</folder>
+	<filename>codeIgniter-theme.png</filename>
+	<path>C:\Work\Inno_Vision_X\Bootstrap_images\codeIgniter-theme.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>textbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>46</ymin>
+			<xmax>704</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>awesome-registration-form-example-business-charity-donation-box-template-best-of-race-unique-simple.jpg</filename>
+	<path>C:\Work\Inno_Vision_X\Images\awesome-registration-form-example-business-charity-donation-box-template-best-of-race-unique-simple.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>783</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>121</ymin>
+			<xmax>458</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

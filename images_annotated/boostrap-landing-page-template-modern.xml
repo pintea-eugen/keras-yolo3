@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bootstrap_images</folder>
+	<filename>boostrap-landing-page-template-modern.png</filename>
+	<path>C:\Work\Inno_Vision_X\Bootstrap_images\boostrap-landing-page-template-modern.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>260</ymin>
+			<xmax>476</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
